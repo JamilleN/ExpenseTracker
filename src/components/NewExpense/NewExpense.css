@@ -1,5 +1,5 @@
 .newExpense {
-  background-color: #ed917f;
+  background-color: #f3f2f7;
   padding: 1rem;
   margin: 2rem auto;
   width: 50rem;
@@ -13,8 +13,8 @@
   font: inherit;
   cursor: pointer;
   padding: 1rem 2rem;
-  border: 1px solid #f62d05;
-  background-color: #f62d05;
+  border: 1px solid #FA5B3D;
+  background-color: #FA5B3D;
   color: white;
   border-radius: 12px;
   margin-right: 1rem;
@@ -31,7 +31,7 @@
 }
 
 .newExpense button.alternative {
-  color: #f62d05;
+  color: #FA5B3D;
   border-color: transparent;
   background-color: transparent;
 }

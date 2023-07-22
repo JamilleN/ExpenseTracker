@@ -10,7 +10,7 @@
     width: 100%;
     border: 1px solid #313131;
     border-radius: 12px;
-    background-color: #ed917f;
+    background-color: white;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -18,7 +18,7 @@
   }
   
   .chartBar_fill {
-    background-color: #f62d05;
+    background-color: #FA5B3D;
     width: 100%;
     transition: all 0.3s ease-out;
   }
