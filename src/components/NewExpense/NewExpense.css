@@ -1,0 +1,47 @@
+.newExpense {
+  background-color: #ed917f;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+}
+
+.newExpense button {
+  font: inherit;
+  cursor: pointer;
+  padding: 1rem 2rem;
+  border: 1px solid #f62d05;
+  background-color: #f62d05;
+  color: white;
+  border-radius: 12px;
+  margin-right: 1rem;
+}
+
+.newExpense button:hover {
+  background-color: #fa5b3d;
+  border-color: #fa5b3d;
+}
+
+.newExpense button:active {
+  background-color: #f3cbc3;
+  border-color: #f3cbc3;
+}
+
+.newExpense button.alternative {
+  color: #f62d05;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.newExpense button.alternative:hover {
+  background-color: #fa5b3d;
+  border-color: #fa5b3d;
+}
+
+.newExpense button.alternative:active {
+  background-color: #f3cbc3;
+  border-color: #f3cbc3;
+}
