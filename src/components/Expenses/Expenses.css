@@ -7,6 +7,7 @@
 }
 
 .noExpenses_msg {
-  color: white;
+  background-color: #f3cbc3;
+  color: #FA5B3D;
   text-align: center;
 }
