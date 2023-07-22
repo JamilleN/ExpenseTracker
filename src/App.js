@@ -27,6 +27,12 @@ const INITIAL_EXPENSES = [
     amount: 7984.36,
     date: new Date(2022, 8, 15),
   },
+   {
+    id: "e5",
+    title: "Vet visit",
+    amount: 98.47,
+    date: new Date(2023, 6, 1),
+  }
 ];
 
 export default function App() {
