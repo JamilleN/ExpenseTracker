@@ -1,4 +1,4 @@
-# ExpenseTracker
+# ExpenseTracker (Live Demo Available) 
 An easy to use and responsive Expense Tracker app built by JS and React
 
 [View Live Demo](https://jamillen.github.io/ExpenseTracker/)
