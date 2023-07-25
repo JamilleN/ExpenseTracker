@@ -1,5 +1,6 @@
 import Expenses from "./components/Expenses/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
+import Footer from "./components/UI/Footer";
 import { useState } from "react";
 
 const INITIAL_EXPENSES = [
@@ -48,6 +49,7 @@ export default function App() {
     <div>
       <NewExpense onAddExpense={addExpenseHandler}></NewExpense>
       <Expenses items={expenses}></Expenses>
+      <Footer></Footer>
     </div>
   );
 }
