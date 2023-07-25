@@ -1,8 +1,6 @@
 import "./Footer.css";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 
-
-
 export default function Footer() {
   return (
     <div className="footer">
@@ -15,7 +13,6 @@ export default function Footer() {
       <p className="footer_text">
         © 2023 built by Jamille Ni. All rights reserved
       </p>
-      
 
     </div>
   );
